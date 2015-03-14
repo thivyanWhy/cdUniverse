@@ -8,6 +8,8 @@ public class FirstC {
 		System.out.println("Welcome to CD Universe!");
 		System.out.println("Hopefully i won't fail this!");
 		System.out.println("So yeah, life is shit LOLOMG)");
+		System.out.println("Savvy in the house!!!");
+
 
 		
 	}
